@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T07:24:47 IST" name="Suite" finished-at="2021-09-26T07:26:52 IST" duration-ms="125391">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T07:24:47 IST" name="Test" finished-at="2021-09-26T07:26:52 IST" duration-ms="125391">
+      <class name="com.testscenarios.ClassTemplate">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.testscenarios.ClassTemplate@581ac8a8]" started-at="2021-09-26T07:25:54 IST" name="beforeClass" finished-at="2021-09-26T07:25:58 IST" duration-ms="3591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:com.testscenarios.ClassTemplate@581ac8a8]" started-at="2021-09-26T07:25:58 IST" name="f" finished-at="2021-09-26T07:25:58 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testscenarios.ClassTemplate@581ac8a8]" started-at="2021-09-26T07:25:58 IST" name="afterMethod" finished-at="2021-09-26T07:25:58 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testscenarios.ClassTemplate@581ac8a8]" started-at="2021-09-26T07:25:58 IST" name="afterClass" finished-at="2021-09-26T07:25:58 IST" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.ClassTemplate -->
+      <class name="com.testscenarios.FB_Login">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.testscenarios.FB_Login@32b260fa]" started-at="2021-09-26T07:25:30 IST" name="beforeClass" finished-at="2021-09-26T07:25:49 IST" duration-ms="18926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="fblogin()[pri:0, instance:com.testscenarios.FB_Login@32b260fa]" started-at="2021-09-26T07:25:49 IST" name="fblogin" finished-at="2021-09-26T07:25:53 IST" duration-ms="4572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fblogin -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testscenarios.FB_Login@32b260fa]" started-at="2021-09-26T07:25:53 IST" name="afterClass" finished-at="2021-09-26T07:25:54 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.FB_Login -->
+      <class name="com.testscenarios.DropDownSample">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.testscenarios.DropDownSample@3e84448c]" started-at="2021-09-26T07:24:47 IST" name="beforeClass" finished-at="2021-09-26T07:25:10 IST" duration-ms="23203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:com.testscenarios.DropDownSample@3e84448c]" started-at="2021-09-26T07:25:10 IST" name="f" finished-at="2021-09-26T07:25:28 IST" duration-ms="17940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testscenarios.DropDownSample@3e84448c]" started-at="2021-09-26T07:25:28 IST" name="afterMethod" finished-at="2021-09-26T07:25:29 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testscenarios.DropDownSample@3e84448c]" started-at="2021-09-26T07:25:29 IST" name="afterClass" finished-at="2021-09-26T07:25:30 IST" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.DropDownSample -->
+      <class name="com.testscenarios.DragAndDrop">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.testscenarios.DragAndDrop@6d4e5011]" started-at="2021-09-26T07:25:58 IST" name="beforeClass" finished-at="2021-09-26T07:26:02 IST" duration-ms="3656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:com.testscenarios.DragAndDrop@6d4e5011]" started-at="2021-09-26T07:26:02 IST" name="f" finished-at="2021-09-26T07:26:50 IST" duration-ms="47844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testscenarios.DragAndDrop@6d4e5011]" started-at="2021-09-26T07:26:50 IST" name="afterMethod" finished-at="2021-09-26T07:26:51 IST" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testscenarios.DragAndDrop@6d4e5011]" started-at="2021-09-26T07:26:51 IST" name="afterClass" finished-at="2021-09-26T07:26:52 IST" duration-ms="1431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.DragAndDrop -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
